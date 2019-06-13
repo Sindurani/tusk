@@ -2,4 +2,6 @@ public class Hello{
 public static void main{
 System.out.println("Hai");
 System.out.println("Good morning");
+System.out.println("Hello");
+System.out.println("Whats up");
 }
